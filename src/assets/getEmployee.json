@@ -1,0 +1,77 @@
+
+
+{
+  "message": "",
+  "result": true,
+  "data": [
+    {
+      "empId": 1224,
+      "empName": "Rajeev",
+      "empContactNo": "9873456235",
+      "empAltContactNo": "7657657657",
+      "empEmail": "rajeev@gmail.com",
+      "addressLine1": "Mohali",
+      "addressLine2": "Kharar",
+      "pincode": "140301",
+      "city": "Kharar",
+      "state": "Punjab",
+      "bankName": "SBI",
+      "ifsc": "24224",
+      "accountNo": "5456565656",
+      "bankBranch": "Kharar",
+      "salary": 8755
+    },
+    {
+      "empId": 1226,
+      "empName": "dfds",
+      "empContactNo": "54665",
+      "empAltContactNo": "45677843",
+      "empEmail": "vccx",
+      "addressLine1": "dfffd",
+      "addressLine2": "fddf",
+      "pincode": "string",
+      "city": "dsfdf",
+      "state": "sffgd",
+      "bankName": "fdgf",
+      "ifsc": "fgfhf",
+      "accountNo": "fsdg",
+      "bankBranch": "fddgf",
+      "salary": 56899
+    },
+    {
+      "empId": 1227,
+      "empName": "string",
+      "empContactNo": "string",
+      "empAltContactNo": "string",
+      "empEmail": "string",
+      "addressLine1": "string",
+      "addressLine2": "string",
+      "pincode": "string",
+      "city": "string",
+      "state": "string",
+      "bankName": "string",
+      "ifsc": "string",
+      "accountNo": "string",
+      "bankBranch": "string",
+      "salary": 0
+    },
+    {
+      "empId": 1228,
+      "empName": " hhgf",
+      "empContactNo": " 567543",
+      "empAltContactNo": " 4433",
+      "empEmail": " 3443",
+      "addressLine1": " dfff",
+      "addressLine2": " ffd",
+      "pincode": "string",
+      "city": " rrere",
+      "state": " fsdfd",
+      "bankName": " ffd",
+      "ifsc": " sdff",
+      "accountNo": " ff",
+      "bankBranch": " fdsdf",
+      "salary": 6675434
+    }
+  ]
+}
+    
